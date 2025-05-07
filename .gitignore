@@ -1,4 +1,9 @@
 *.yaml
+!/libs/chatchat-server/chatchat/basic_settings.yaml
+!/libs/chatchat-server/chatchat/kb_settings.yaml
+!/libs/chatchat-server/chatchat/model_settings.yaml
+!/libs/chatchat-server/chatchat/prompt_settings.yaml
+!/libs/chatchat-server/chatchat/tool_settings.yaml
 *.json
 *.log
 *.log.*
