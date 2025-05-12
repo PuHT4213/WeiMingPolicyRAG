@@ -1,6 +1,6 @@
 # 未名问政 RAG 系统
 
-![未名问政Logo](./images/logo.png)
+![未名问政Logo](./images/WeiMingPolicyLogo.png)
 
 ## 系统部署
 
